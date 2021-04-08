@@ -1,0 +1,31 @@
+
+.About{
+    color: rgb(91, 133, 86);
+}
+
+.navbar{
+    
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.colm{
+    padding-bottom: 10px;
+    width: 10px;
+    height: 20px;
+  
+  border-radius: 10px;
+ padding: 70px 100px;
+cursor:pointer;
+border-radius: 12px;
+box-sizing: border-box;
+margin: 1px 1px;
+
+background-size: cover;
+}
+.navbar ul li{
+  list-style: none  ;
+  
+}
